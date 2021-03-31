@@ -1,0 +1,260 @@
+<VAST version="4.2">
+	<Ad id="1329167" sequence="1">
+		<InLine>
+			<AdSystem>Acudeo Compatible</AdSystem>
+			<AdTitle>VAST 4.2 Instream Test 1</AdTitle>
+			<Description>VAST 4.2 Instream Test 1</Description>
+			<Error>
+				<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&er=[ERRORCODE]&rd=https%3A%2F%2Ftrack.dsptracker.com%3Fp%3D1234%26er%3D%5BERRORCODE%5D ]]>
+			</Error>
+			<Impression>
+				<![CDATA[ https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=156379&siteId=206986&adId=1124904&adType=13&adServerId=243&kefact=563.397800&kaxefact=563.397800&kadNetFrequecy=1&kadwidth=0&kadheight=0&kadsizeid=97&kltstamp=1565593648&indirectAdId=0&adServerOptimizerId=2&ranreq=0.027912176088805696&kpbmtpfact=804.854000&dcId=1&tldId=0&passback=0&svr=ShashankAds&ekefact=MBBRXa_GBQDrzl1BJPYljabRjfrs_weQYiIOiXTy2TOPACy2&ekaxefact=MBBRXc7GBQD7HtFd9sh7ePpq9zT3SO0t9hRAmGN2PWrBuJN1&ekpbmtpfact=MBBRXefGBQBdaDWYEIywZcB8owLVA9442P_Q4iXxyZozRK4G&crID=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&lpu=ae.com&ucrid=8501165314731751032&campaignId=22925&creativeId=0&pctr=0.000000&wDSPByrId=11&wDspId=308&wbId=0&wrId=0&wAdvID=116206&isRTB=1&rtbId=EBCA079F-8D7C-45B8-B733-92951F670AA1&imprId=51F3193A-929C-4EF2-84EB-B120877821C8&oid=51F3193A-929C-4EF2-84EB-B120877821C8&mobflag=2&domain=stagingva.pubmatic.com:8080&pageURL=http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523&pmc=1 ]]>
+			</Impression>
+			<Impression id="pubmatic">
+				<![CDATA[ <a href='' target='_blank'><img src='https://dummyimage.com/300x250/000000/fff.jpg&text=Test_Creative.jpg' alt='Creative' title='Creative'></a> ]]>
+			</Impression>
+			<ViewableImpression id="1543">
+				<Viewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=102&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</Viewable>
+				<NotViewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=103&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+					</NotViewable>
+				<ViewUndetermined>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=104&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</ViewUndetermined>
+			</ViewableImpression>
+			<Creatives>
+				<Creative AdID="1329167">
+					<Linear skipoffset="20%">
+						<TrackingEvents>
+							<Tracking event="close">
+								<![CDATA[ https://mytracking.com/linear/close ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[ https://mytracking.com/linear/skip ]]>
+							</Tracking>
+							<Tracking event="creativeView">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=1 ]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=2 ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=3 ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=4 ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=5 ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=6 ]]>
+							</Tracking>
+						</TrackingEvents>
+							<Duration>00:00:04</Duration>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=99 ]]>
+							</ClickTracking>
+							<ClickThrough>https://www.pubmatic.com</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="500" width="400" height="300" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://stagingva.pubmatic.com:8443/video/Shashank/mediaFileHost/media/mp4-sample-2.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<AdVerifications>
+				<Verification vendor="moat.com-omid">
+					<JavaScriptResource apiFramework="omid" browserOptional="true">
+						<![CDATA[ https://z.moatads.com/pubmaticomidvideo355142806119/moatvideo.js ]]>
+					</JavaScriptResource>
+					<TrackingEvents>
+						<Tracking event="verificationNotExecuted">
+							<![CDATA[ https://www.google.co.in ]]>
+						</Tracking>
+					</TrackingEvents>
+					<VerificationParameters>
+						<![CDATA[ {"moatClientLevel1":"156379","moatClientLevel2":"206986","moatClientLevel3":"AD","moatClientLevel4":"2","moatClientSlicer1":"","moatClientSlicer2":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523DOM","moatClientSlicer3":"", *"*zMoatPP":"563.398", "zMoatCntry":"0", "zMoatAdv":"116206", "zMoatCamp":"22925", "zMoatDSP":"308", "zMoatBid":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523", "zMoatUCR":"8501165314731751032"} ]]>
+					</VerificationParameters>
+				</Verification>
+			</AdVerifications>
+		</InLine>
+	</Ad>
+	<Ad id="1329167" sequence="2">
+		<InLine>
+			<AdSystem>Acudeo Compatible</AdSystem>
+			<AdTitle>VAST 4.2 Instream Test 1</AdTitle>
+			<Description>VAST 4.2 Instream Test 1</Description>
+			<Error>
+				<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&er=[ERRORCODE]&rd=https%3A%2F%2Ftrack.dsptracker.com%3Fp%3D1234%26er%3D%5BERRORCODE%5D ]]>
+			</Error>
+			<Impression>
+				<![CDATA[ https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=156379&siteId=206986&adId=1124904&adType=13&adServerId=243&kefact=563.397800&kaxefact=563.397800&kadNetFrequecy=1&kadwidth=0&kadheight=0&kadsizeid=97&kltstamp=1565593648&indirectAdId=0&adServerOptimizerId=2&ranreq=0.027912176088805696&kpbmtpfact=804.854000&dcId=1&tldId=0&passback=0&svr=ShashankAds&ekefact=MBBRXa_GBQDrzl1BJPYljabRjfrs_weQYiIOiXTy2TOPACy2&ekaxefact=MBBRXc7GBQD7HtFd9sh7ePpq9zT3SO0t9hRAmGN2PWrBuJN1&ekpbmtpfact=MBBRXefGBQBdaDWYEIywZcB8owLVA9442P_Q4iXxyZozRK4G&crID=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&lpu=ae.com&ucrid=8501165314731751032&campaignId=22925&creativeId=0&pctr=0.000000&wDSPByrId=11&wDspId=308&wbId=0&wrId=0&wAdvID=116206&isRTB=1&rtbId=EBCA079F-8D7C-45B8-B733-92951F670AA1&imprId=51F3193A-929C-4EF2-84EB-B120877821C8&oid=51F3193A-929C-4EF2-84EB-B120877821C8&mobflag=2&domain=stagingva.pubmatic.com:8080&pageURL=http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523&pmc=1 ]]>
+			</Impression>
+			<Impression id="pubmatic">
+				<![CDATA[ <a href='' target='_blank'><img src='https://dummyimage.com/300x250/000000/fff.jpg&text=Test_Creative.jpg' alt='Creative' title='Creative'></a> ]]>
+			</Impression>
+			<ViewableImpression id="1543">
+				<Viewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=102&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</Viewable>
+				<NotViewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=103&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+					</NotViewable>
+				<ViewUndetermined>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=104&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</ViewUndetermined>
+			</ViewableImpression>
+			<Creatives>
+				<Creative AdID="1329167">
+					<Linear skipoffset="20%">
+						<TrackingEvents>
+							<Tracking event="close">
+								<![CDATA[ https://mytracking.com/linear/close ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[ https://mytracking.com/linear/skip ]]>
+							</Tracking>
+							<Tracking event="creativeView">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=1 ]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=2 ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=3 ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=4 ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=5 ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=6 ]]>
+							</Tracking>
+						</TrackingEvents>
+							<Duration>00:00:04</Duration>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=99 ]]>
+							</ClickTracking>
+							<ClickThrough>https://www.pubmatic.com</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="500" width="400" height="300" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://stagingva.pubmatic.com:8443/video/Shashank/mediaFileHost/media/mp4-sample-3.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<AdVerifications>
+				<Verification vendor="moat.com-omid">
+					<JavaScriptResource apiFramework="omid" browserOptional="true">
+						<![CDATA[ https://z.moatads.com/pubmaticomidvideo355142806119/moatvideo.js ]]>
+					</JavaScriptResource>
+					<TrackingEvents>
+						<Tracking event="verificationNotExecuted">
+							<![CDATA[ https://www.google.co.in ]]>
+						</Tracking>
+					</TrackingEvents>
+					<VerificationParameters>
+						<![CDATA[ {"moatClientLevel1":"156379","moatClientLevel2":"206986","moatClientLevel3":"AD","moatClientLevel4":"2","moatClientSlicer1":"","moatClientSlicer2":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523DOM","moatClientSlicer3":"", *"*zMoatPP":"563.398", "zMoatCntry":"0", "zMoatAdv":"116206", "zMoatCamp":"22925", "zMoatDSP":"308", "zMoatBid":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523", "zMoatUCR":"8501165314731751032"} ]]>
+					</VerificationParameters>
+				</Verification>
+			</AdVerifications>
+		</InLine>
+	</Ad>
+	<Ad id="1329167" sequence="3">
+		<InLine>
+			<AdSystem>Acudeo Compatible</AdSystem>
+			<AdTitle>VAST 4.2 Instream Test 1</AdTitle>
+			<Description>VAST 4.2 Instream Test 1</Description>
+			<Error>
+				<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&er=[ERRORCODE]&rd=https%3A%2F%2Ftrack.dsptracker.com%3Fp%3D1234%26er%3D%5BERRORCODE%5D ]]>
+			</Error>
+			<Impression>
+				<![CDATA[ https://aktrack.pubmatic.com/AdServer/AdDisplayTrackerServlet?operId=1&pubId=156379&siteId=206986&adId=1124904&adType=13&adServerId=243&kefact=563.397800&kaxefact=563.397800&kadNetFrequecy=1&kadwidth=0&kadheight=0&kadsizeid=97&kltstamp=1565593648&indirectAdId=0&adServerOptimizerId=2&ranreq=0.027912176088805696&kpbmtpfact=804.854000&dcId=1&tldId=0&passback=0&svr=ShashankAds&ekefact=MBBRXa_GBQDrzl1BJPYljabRjfrs_weQYiIOiXTy2TOPACy2&ekaxefact=MBBRXc7GBQD7HtFd9sh7ePpq9zT3SO0t9hRAmGN2PWrBuJN1&ekpbmtpfact=MBBRXefGBQBdaDWYEIywZcB8owLVA9442P_Q4iXxyZozRK4G&crID=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&lpu=ae.com&ucrid=8501165314731751032&campaignId=22925&creativeId=0&pctr=0.000000&wDSPByrId=11&wDspId=308&wbId=0&wrId=0&wAdvID=116206&isRTB=1&rtbId=EBCA079F-8D7C-45B8-B733-92951F670AA1&imprId=51F3193A-929C-4EF2-84EB-B120877821C8&oid=51F3193A-929C-4EF2-84EB-B120877821C8&mobflag=2&domain=stagingva.pubmatic.com:8080&pageURL=http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523&pmc=1 ]]>
+			</Impression>
+			<Impression id="pubmatic">
+				<![CDATA[ <a href='' target='_blank'><img src='https://dummyimage.com/300x250/000000/fff.jpg&text=Test_Creative.jpg' alt='Creative' title='Creative'></a> ]]>
+			</Impression>
+			<ViewableImpression id="1543">
+				<Viewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=102&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</Viewable>
+				<NotViewable>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=103&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+					</NotViewable>
+				<ViewUndetermined>
+					<![CDATA[ https://search.iabtechlab.com/error?errcode=104&imprid=s5-ea2f7f298e28c0c98374491aec3dfeb1&ts=1243 ]]>
+				</ViewUndetermined>
+			</ViewableImpression>
+			<Creatives>
+				<Creative AdID="1329167">
+					<Linear skipoffset="20%">
+						<TrackingEvents>
+							<Tracking event="close">
+								<![CDATA[ https://mytracking.com/linear/close ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[ https://mytracking.com/linear/skip ]]>
+							</Tracking>
+							<Tracking event="creativeView">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=1 ]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=2 ]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=3 ]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=4 ]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=5 ]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=6 ]]>
+							</Tracking>
+						</TrackingEvents>
+							<Duration>00:00:04</Duration>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[ https://aktrack.pubmatic.com/track?operId=7&p=156379&s=206986&a=1124904&wa=243&ts=1565593648&wc=22925&crId=m:1 2 6 7 8_x:3_y:3_t:0_va:3_c:22925_off&ucrid=8501165314731751032&impid=51F3193A-929C-4EF2-84EB-B120877821C8&advertiser_id=116206&ecpm=563.397800&e=99 ]]>
+							</ClickTracking>
+							<ClickThrough>https://www.pubmatic.com</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" bitrate="500" width="400" height="300" scalable="true" maintainAspectRatio="true">
+								<![CDATA[ https://stagingva.pubmatic.com:8443/video/Shashank/mediaFileHost/media/mp4-sample-1.mp4 ]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<AdVerifications>
+				<Verification vendor="moat.com-omid">
+					<JavaScriptResource apiFramework="omid" browserOptional="true">
+						<![CDATA[ https://z.moatads.com/pubmaticomidvideo355142806119/moatvideo.js ]]>
+					</JavaScriptResource>
+					<TrackingEvents>
+						<Tracking event="verificationNotExecuted">
+							<![CDATA[ https://www.google.co.in ]]>
+						</Tracking>
+					</TrackingEvents>
+					<VerificationParameters>
+						<![CDATA[ {"moatClientLevel1":"156379","moatClientLevel2":"206986","moatClientLevel3":"AD","moatClientLevel4":"2","moatClientSlicer1":"","moatClientSlicer2":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523DOM","moatClientSlicer3":"", *"*zMoatPP":"563.398", "zMoatCntry":"0", "zMoatAdv":"116206", "zMoatCamp":"22925", "zMoatDSP":"308", "zMoatBid":"http%253A%252F%252Fstagingva.pubmatic.com%253A8080%252Fvast-validator%252F%2523", "zMoatUCR":"8501165314731751032"} ]]>
+					</VerificationParameters>
+				</Verification>
+			</AdVerifications>
+		</InLine>
+	</Ad>
+</VAST>
